@@ -1,0 +1,9 @@
+1 - make the profile image banner and the description dynamic for each user
+2 - add the ability of attach image when user publish a tweet
+3 - add the ability to toggle the like button to unlike the like button
+4 - add a pop up message when a user publish a tweet or follow someone
+5 - adding laravel livewire to allow for more interactive forms
+6 - by writting a new tweet show the reminder characters they're allowed
+7 - allow tweet to be delete
+8 - add support for mention and notifications
+9 - work on responsiveness
